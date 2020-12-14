@@ -5,6 +5,6 @@ public class Items {
 	String Itemname = null;
 	void setitemname(String itemname) {
 		
-		
+		Itemname = itemname;
 	}
 }
