@@ -18,10 +18,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="D:/2sem java/HTML Java thing/lib/jxbrowser-7.12.jar"/>
+	<classpathentry kind="lib" path="D:/2sem java/HTML Java thing/lib/jxbrowser-javafx-7.12.jar"/>
+	<classpathentry kind="lib" path="D:/2sem java/HTML Java thing/lib/jxbrowser-linux64-7.12.jar"/>
+	<classpathentry kind="lib" path="D:/2sem java/HTML Java thing/lib/jxbrowser-swing-7.12.jar"/>
+	<classpathentry kind="lib" path="D:/2sem java/HTML Java thing/lib/jxbrowser-swt-7.12.jar"/>
+	<classpathentry kind="lib" path="D:/2sem java/HTML Java thing/lib/jxbrowser-win32-7.12.jar"/>
+	<classpathentry kind="lib" path="D:/2sem java/HTML Java thing/lib/jxbrowser-win64-7.12.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
